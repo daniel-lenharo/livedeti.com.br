@@ -1,5 +1,5 @@
 ---
-title: Hello
+title: Lives de TI
 layout: default
 ---
 
@@ -92,7 +92,6 @@ body {font-family: Verdana, sans-serif;}
 </head>
 <body>
 
-<h1>CSS Calendar</h1>
 
 <div class="month">      
   <ul>
